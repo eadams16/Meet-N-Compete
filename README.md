@@ -1,6 +1,6 @@
 # Meet-n-Compete
 
-My final 4-person group Senior Project that I worked on and was the team lead for from January 2020 - June 2020
+My final 4-person group Senior Project. We worked on this from January 2020 - June 2020
 
 --Brief Overview--
 
